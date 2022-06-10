@@ -1,0 +1,165 @@
+Team 4
+Simone Rizzo, Carlo Floris, Bianca Cerulo, Marco Cafasso
+Preparare le lasagne alla bolognese
+L’ingrediente segreto
+Chissà perché, per quanto ci provi e segua alla lettera la ricetta, non vengono mai come quelle di nonna! Ho studiato alla perfezione tutti gli ingredienti, le quantità, i tempi e modalità di cottura, ma alla fine le lasagne della nonna sono sempre di un altro livello!
+
+
+
+
+siamo in cucina
+apro il ricettario della nonna
+leggo gli ingredienti
+controllo ogni singolo ingrediente
+se un ingrediente è nella cucina lo poggio sul tavolo
+    lista ingredienti ragù
+        600 gr di carne macinata di manzo ( non troppo magra)
+        250 gr di carne macinata di maiale ( non troppo magra)
+        700 ml di passata di pomodoro densa  + acqua
+        1 cipolla bianca piccola
+        70 gr di sedano
+        70 gr di carota
+        3 cucchiai di olio extravergine
+        100 ml di vino rosso (bene anche il bianco)
+        50 ml di latte intero
+        1 rametto di rosmarino fresco (facoltativo)
+        sale
+        pepe
+    non è nella cucina --> lo aggiungo alla lista della spesa
+    lista ingredienti sfoglia
+        Quantità per 300 gr di impasto – ( 2 – 3 persone)
+        150 gr di farina di grano tenero ’00
+        50 gr di farina di grano duro (in alternativa farina ‘0)
+        2 uova intere grandi
+    non è nella cucina --> lo aggiungo alla lista della spesa
+    Lista ingredienti Besciamella:
+        1\2 l di latte intero, scremato o vegetale (oppure brodo vegetale)
+        50 gr di burro (oppure 50 gr di olio extravergine)
+        50 gr di farina
+    non è nella cucina --> lo aggiungo alla lista della spesa  
+controllo ogni singolo strumento
+    se un ingrediente è nella cucina lo poggio sul tavolo
+        una padella
+        una pentola
+        una pirofila
+    non è nella cucina --> lo aggiungo alla lista della spesa
+controllo la lista della spesa
+    se la lista della spesa è vuota --> inizio a cucinare
+    altrimenti esco per comprare al supermercato
+        
+
+inizio a cucinare
+    inizio con il ragù (ci vuole più tempo)
+            lavo carota, sedano
+            pulisco la cipolla
+            taglio carote, sedano, cipolla
+        prendo una padella
+        inserisco olio
+        inserisco verdure
+        accendo il fuoco
+            il fuoco è al 30%
+        attendo 5 minuti
+        aggiungo rosmarino
+        aggiungo la carne macinata
+            alzo il fuoco al 50%
+        attendo 10 minuti
+        aggiungo il vino
+            alzo il fuoco al 90%
+        controllo la quantità di vino presente
+            è presente --> attendo
+            altrimenti --> abbasso il fuoco al 30%
+        aggiungo il pomodoro
+        riempio la bottiglia di passata d'acqua
+            svuoto il contenuto nella padella
+        la salsa sta bollendo?
+            se no --> attendo
+            se si --> trasferisco la pentola su un fuoco più piccolo
+        posiziono il coperchio
+        se non sono passate 3 ore?
+            se no --> attendo 20 minuti
+                            tolgo il coperchio
+                            giro la salsa
+                            rimetto il coperchio
+            se si --> continuo la cottura
+        aggiungo del latte
+        assaggio la salsa
+        correggo di sale
+        correggo di pepe
+        finito il ragù
+
+    inizio la sfoglia
+        prendo il tagliere
+        prendo la farina 
+            la dispongo a fontana
+         
+        prendo un uovo
+            rompo un uovo
+            lo dispongo nella farina
+                    ci sono due uova nella farina?
+                    se no --> prendo un uovo
+                                rompo un uovo
+                                lo dispongo nella farina
+        se si --> inserisco il sale   
+        sbatto le uova
+        impasto le uova con la farina
+        creo una forma
+        tiro l'impasto
+        stendo l'impasto
+        lo taglio in sfoglie
+
+    inizio la Besciamella
+        prendo un pentolino
+        lo piazzo sul fuoco
+        accendo il fuoco
+        inserisco burro
+        inserisco farina
+        ho aggiunto tutto il latte?
+        se no --
+            mescolo lentamente
+            aggiungo latte
+        se si
+            aggiungo sale e aromi
+
+prendo una pirofila
+    ho finito lo spazio?
+        se no --
+            inserisco salsa
+            inserisco sfoglia
+            inserisco besciamella
+            spolvero di parmigiano
+        se si --
+            copro la lasagna
+    accendo il forno
+        è a temperatura?
+            se si --
+                inserisco la lasagna
+            se no --
+                attendo 30 minuti
+    la lasagna è pronta
+    fine
+    
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    
+            
+            
+               
+
+
+        
+
+
+        
+
+
